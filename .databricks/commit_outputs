@@ -16,3 +16,11 @@
  
 delta notebooks/09.Optimize Command.ipynb
 delta notebooks/01.Drawbacks of ADLS.ipynb
+delta notebooks/02.Understanding the transaction log.ipynb
+delta notebooks/03.Creating delta tables.ipynb
+delta notebooks/04.Creating delta tables using PySpark.ipynb
+delta notebooks/05.Schema Enforce.ipynb
+delta notebooks/06.Versioning and Time Travel.ipynb
+delta notebooks/07.Vacuum Command.ipynb
+delta notebooks/08.Convert to Delta.ipynb
+delta notebooks/10.UPSERT using MERGE.ipynb
